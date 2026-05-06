@@ -6,8 +6,6 @@ The focus is on understanding how financial data is structured in SAP and how it
 
 Business Objective
 
-To simulate a real-world financial reporting scenario where SAP is used to:
-
 - Monitor financial transactions at the account level
 - Evaluate overall financial position (Assets, Liabilities, Equity)
 - Compare financial performance across reporting periods
@@ -15,7 +13,7 @@ To simulate a real-world financial reporting scenario where SAP is used to:
   
 System & Environment
 
-- Module: SAP FICO (Financial Accounting)
+- Module: SAP FICO
 - Ledger: 0L (Leading Ledger)
 - Company Code: D476
 - Currency: AUD
@@ -41,9 +39,9 @@ Step 2: Financial Statement Generation
      Equity: Reserves, Share Capital
   
 Step 3: Comparative Analysis
-Compared: Current reporting period vs previous period
-Analyzed: Absolute differences in financial values
-Identified: Financial growth patterns, Changes in asset/liability distribution
+- Compared: Current reporting period vs previous period
+- Analyzed: Absolute differences in financial values
+- Identified: Financial growth patterns, Changes in asset/liability distribution
 
 Key Analysis Performed
 - Asset Analysis
@@ -68,7 +66,8 @@ sap-fico-financial-reporting-analysis/
 │── screenshots/
 │     ├── gl_account_balances.png
 │     ├── financial_statements.png
-🖼️ Project Screenshots
+
+
 G/L Account Balances
 
 Description:

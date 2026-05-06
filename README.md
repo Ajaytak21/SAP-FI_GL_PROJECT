@@ -61,3 +61,39 @@ Key Insights
 - Financial statement structure provides a clear view of resource allocation and obligations
 - Comparative analysis helps in identifying financial trends and performance changes
 - SAP enables structured and reliable financial data reporting for decision-making
+
+Project Structure
+sap-fico-financial-reporting-analysis/
+│── README.md
+│── screenshots/
+│     ├── gl_account_balances.png
+│     ├── financial_statements.png
+🖼️ Project Screenshots
+G/L Account Balances
+
+Description:
+Displays account-wise balances including debit and credit values for assets, inventory, and financial accounts. Used for detailed financial tracking.
+###  G/L Account Balances
+![G/L Account Balances](screenshots/gl_account_balances.png)
+
+Financial Statement (Balance Sheet)
+
+Description:
+Represents the overall financial position of the organization, including assets, liabilities, and equity, along with period comparisons.
+### Financial Statement (Balance Sheet)
+![Financial Statement](screenshots/financial_statements.png)
+
+Learning Outcomes
+- Developed hands-on experience with SAP FICO financial reporting
+- Gained understanding of G/L account structure and balance sheet composition
+- Learned how to interpret financial data for business insights
+- Improved ability to connect SAP outputs with real-world financial analysis
+  
+Future Enhancements
+- Integrate SAP data with Excel for advanced analysis
+- Build dashboards for financial visualization
+- Automate reporting workflows
+  
+Conclusion
+
+This project demonstrates how SAP FICO can be used to generate and analyze financial reports, providing valuable insights into an organization’s financial health and supporting effective business decision-making.
